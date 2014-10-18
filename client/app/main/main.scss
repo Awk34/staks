@@ -28,3 +28,49 @@
     margin-top: 70px;
     border-top: 1px solid #E5E5E5;
 }
+
+.animation-5 {
+    width: 117px;
+    height: 50px;
+}
+
+.animation-5 div {
+    height: 30px;
+    width: 10px;
+    background-color: #005AA2;
+    display: inline-block;
+    margin-right: 10px;
+    -webkit-animation: animation5-bar 1s infinite;
+    animation: animation5-bar 1s infinite;
+}
+
+.animation-5 .bar1 {
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+
+.animation-5 .bar2 {
+    -webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+}
+
+.animation-5 .bar3 {
+    -webkit-animation-delay: 0.7s;
+    animation-delay: 0.7s;
+}
+
+.animation-5 .bar4 {
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+}
+
+.animation-5 .bar5 {
+    -webkit-animation-delay: 0.9s;
+    animation-delay: 0.9s;
+}
+
+@keyframes animation5-bar {
+    30% {
+        transform: scaleY(2);
+    }
+}

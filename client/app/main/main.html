@@ -6,6 +6,16 @@
 
         <p class="lead">A beautiful and engaging platform for your financial data.</p>
         <!--<img src="assets/images/yeoman.png" alt="I'm Yeoman">-->
+        <button type="submit" class="btn btn-primary" ng-click="startSession()">Start a new session</button>
+        <button type="submit" class="btn btn-primary" ng-click="grabData()">Grab data</button>
+        <div class="animation-5" ng-show="startingSession">
+            <div class="bar bar1"></div>
+            <div class="bar bar2"></div>
+            <div class="bar bar3"></div>
+            <div class="bar bar4"></div>
+            <div class="bar bar5"></div>
+        </div>
+        <div id="dashboard-graphs"></div>
     </div>
 </header>
 
@@ -35,8 +45,7 @@
 
 <footer class="footer">
     <div class="container">
-        <p>Angular Fullstack v2.0.13 |
-            <a href="https://twitter.com/tyhenkel">@tyhenkel</a> |
-            <a href="https://github.com/DaftMonk/generator-angular-fullstack/issues?state=open">Issues</a></p>
+        <p>Staks v0.0.1 |
+            <a href="https://github.com/Awk34/">Awk34@GitHub</a></p>
     </div>
 </footer>
