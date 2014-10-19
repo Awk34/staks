@@ -5,6 +5,6 @@ var controller = require('./blpapi.controller');
 
 var router = express.Router();
 
-router.get('/stocks/:id', controller.getStock);
+router.get('/securities/:id', controller.getStock);
 
 module.exports = router;

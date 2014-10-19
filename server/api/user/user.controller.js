@@ -1,6 +1,7 @@
 'use strict';
 
 var User = require('./user.model');
+var Graph = require('../graph/graph.model');
 var passport = require('passport');
 var config = require('../../config/environment');
 var jwt = require('jsonwebtoken');
@@ -66,6 +67,8 @@ exports.changePassword = function (req, res, next) {
     var oldPass = String(req.body.oldPassword);
     var newPass = String(req.body.newPassword);
 
+    console.log(userId);
+
     User.findById(userId, function (err, user) {
         if (user.authenticate(oldPass)) {
             user.password = newPass;
@@ -90,6 +93,30 @@ exports.me = function (req, res, next) {
         if (err) return next(err);
         if (!user) return res.json(401);
         res.json(user);
+    });
+};
+
+/**
+ * ---------- GRAPHS ----------
+ */
+
+exports.getGraphs = function (req, res) {
+    var userId = req.params.id;
+
+    User.findById(userId, function (err, user) {
+        if (err) return next(err);
+        if (!user) return res.send(401);
+        res.json(user.graphs);
+    });
+};
+
+exports.postGraph = function (req, res) {
+    var userId = req.params.id;
+
+    User.findById(userId, function (err, user) {
+        if (err) return next(err);
+        if (!user) return res.send(401);
+        res.json(user.profile);
     });
 };
 

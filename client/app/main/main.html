@@ -10,12 +10,21 @@
         <!--<button type="submit" class="btn btn-primary" ng-click="grabData()">Grab data</button>-->
         <!--<br />-->
         <div class="input-group">
-            <input type="text" ng-model="selected500" typeahead="sec.ticker for sec in fortune500s | filter:$viewValue | limitTo:8" class="form-control">
+            <form ng-submit="grabStock()"><input type="text" ng-model="selected500"
+                                                 typeahead="sec.ticker for sec in fortune500s | filter:$viewValue | limitTo:8"
+                                                 class="form-control"></form>
             <span class="input-group-btn">
+                <span class="dropdown btn btn-primary">
+                    <a href class="dropdown-toggle" style="color: white;">{{selectedField}}</a>
+                    <ul class="dropdown-menu">
+                        <li ng-repeat="choice in availableFields">
+                            <a href ng-click="selectField(choice)">{{choice}}</a>
+                        </li>
+                    </ul>
+                </span>
                 <button type="submit" class="btn btn-primary" ng-click="grabStock()">Load Stock</button>
             </span>
         </div>
-
         <div class="animation-5" ng-show="loading">
             <div class="bar bar1"></div>
             <div class="bar bar2"></div>
@@ -23,7 +32,6 @@
             <div class="bar bar4"></div>
             <div class="bar bar5"></div>
         </div>
-
     </div>
 </header>
 
@@ -59,3 +67,13 @@
             <a href="https://github.com/Awk34/">Awk34@GitHub</a></p>
     </div>
 </footer>
+
+<!--<nvd3-line-chart-->
+        <!--data="dummyData"-->
+        <!--showXAxis="true"-->
+        <!--showYAxis="true"-->
+        <!--tooltips="true"-->
+        <!--interactive="true"-->
+        <!--height="500"-->
+        <!--xAxisTickFormat="xAxisTickFormat_Date_Format()">-->
+<!--</nvd3-line-chart>-->

@@ -16,6 +16,6 @@ router.post('/', controller.create);
 
 // Graphs
 router.get('/:id/graphs', auth.isAuthenticated(), controller.getGraphs);
-router.post('/:id/graphs', auth.isAuthenticated(), controller.postGraphs);
+router.post('/:id/graphs', auth.isAuthenticated(), controller.postGraph);
 
 module.exports = router;

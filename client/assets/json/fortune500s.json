@@ -29,11 +29,11 @@
     },
     {
         "ticker": "ADT UN Equity",
-        "name": "ADT Corp/The"
+        "name": "ADT Corp\/The"
     },
     {
         "ticker": "AES UN Equity",
-        "name": "AES Corp/VA"
+        "name": "AES Corp\/VA"
     },
     {
         "ticker": "AET UN Equity",
@@ -85,7 +85,7 @@
     },
     {
         "ticker": "AGN UN Equity",
-        "name": "Allergan Inc/United States"
+        "name": "Allergan Inc\/United States"
     },
     {
         "ticker": "ADS UN Equity",
@@ -93,7 +93,7 @@
     },
     {
         "ticker": "ALL UN Equity",
-        "name": "Allstate Corp/The"
+        "name": "Allstate Corp\/The"
     },
     {
         "ticker": "ALTR UW Equity",
@@ -233,7 +233,7 @@
     },
     {
         "ticker": "BK UN Equity",
-        "name": "Bank of New York Mellon Corp/The"
+        "name": "Bank of New York Mellon Corp\/The"
     },
     {
         "ticker": "BAX UN Equity",
@@ -256,7 +256,7 @@
         "name": "Bemis Co Inc"
     },
     {
-        "ticker": "BRK/B UN Equity",
+        "ticker": "BRK\/B UN Equity",
         "name": "Berkshire Hathaway Inc"
     },
     {
@@ -273,7 +273,7 @@
     },
     {
         "ticker": "BA UN Equity",
-        "name": "Boeing Co/The"
+        "name": "Boeing Co\/The"
     },
     {
         "ticker": "BWA UN Equity",
@@ -296,7 +296,7 @@
         "name": "Broadcom Corp"
     },
     {
-        "ticker": "BF/B UN Equity",
+        "ticker": "BF\/B UN Equity",
         "name": "Brown-Forman Corp"
     },
     {
@@ -377,7 +377,7 @@
     },
     {
         "ticker": "SCHW UN Equity",
-        "name": "Charles Schwab Corp/The"
+        "name": "Charles Schwab Corp\/The"
     },
     {
         "ticker": "CHK UN Equity",
@@ -393,7 +393,7 @@
     },
     {
         "ticker": "CB UN Equity",
-        "name": "Chubb Corp/The"
+        "name": "Chubb Corp\/The"
     },
     {
         "ticker": "CI UN Equity",
@@ -425,11 +425,11 @@
     },
     {
         "ticker": "CLX UN Equity",
-        "name": "Clorox Co/The"
+        "name": "Clorox Co\/The"
     },
     {
         "ticker": "CME UW Equity",
-        "name": "CME Group Inc/IL"
+        "name": "CME Group Inc\/IL"
     },
     {
         "ticker": "CMS UN Equity",
@@ -441,7 +441,7 @@
     },
     {
         "ticker": "KO UN Equity",
-        "name": "Coca-Cola Co/The"
+        "name": "Coca-Cola Co\/The"
     },
     {
         "ticker": "CCE UN Equity",
@@ -585,7 +585,7 @@
     },
     {
         "ticker": "D UN Equity",
-        "name": "Dominion Resources Inc/VA"
+        "name": "Dominion Resources Inc\/VA"
     },
     {
         "ticker": "DOV UN Equity",
@@ -593,7 +593,7 @@
     },
     {
         "ticker": "DOW UN Equity",
-        "name": "Dow Chemical Co/The"
+        "name": "Dow Chemical Co\/The"
     },
     {
         "ticker": "DHI UN Equity",
@@ -613,7 +613,7 @@
     },
     {
         "ticker": "DNB UN Equity",
-        "name": "Dun & Bradstreet Corp/The"
+        "name": "Dun & Bradstreet Corp\/The"
     },
     {
         "ticker": "ETFC UW Equity",
@@ -657,7 +657,7 @@
     },
     {
         "ticker": "EMC UN Equity",
-        "name": "EMC Corp/MA"
+        "name": "EMC Corp\/MA"
     },
     {
         "ticker": "EMR UN Equity",
@@ -693,7 +693,7 @@
     },
     {
         "ticker": "EL UN Equity",
-        "name": "Estee Lauder Cos Inc/The"
+        "name": "Estee Lauder Cos Inc\/The"
     },
     {
         "ticker": "EXC UN Equity",
@@ -805,7 +805,7 @@
     },
     {
         "ticker": "GPS UN Equity",
-        "name": "Gap Inc/The"
+        "name": "Gap Inc\/The"
     },
     {
         "ticker": "GRMN UW Equity",
@@ -845,11 +845,11 @@
     },
     {
         "ticker": "GS UN Equity",
-        "name": "Goldman Sachs Group Inc/The"
+        "name": "Goldman Sachs Group Inc\/The"
     },
     {
         "ticker": "GT UW Equity",
-        "name": "Goodyear Tire & Rubber Co/The"
+        "name": "Goodyear Tire & Rubber Co\/The"
     },
     {
         "ticker": "GOOGL UW Equity",
@@ -881,7 +881,7 @@
     },
     {
         "ticker": "HIG UN Equity",
-        "name": "Hartford Financial Services Group Inc/Th"
+        "name": "Hartford Financial Services Group Inc\/Th"
     },
     {
         "ticker": "HAS UW Equity",
@@ -901,7 +901,7 @@
     },
     {
         "ticker": "HSY UN Equity",
-        "name": "Hershey Co/The"
+        "name": "Hershey Co\/The"
     },
     {
         "ticker": "HES UN Equity",
@@ -913,7 +913,7 @@
     },
     {
         "ticker": "HD UN Equity",
-        "name": "Home Depot Inc/The"
+        "name": "Home Depot Inc\/The"
     },
     {
         "ticker": "HON UN Equity",
@@ -941,7 +941,7 @@
     },
     {
         "ticker": "HBAN UW Equity",
-        "name": "Huntington Bancshares Inc/OH"
+        "name": "Huntington Bancshares Inc\/OH"
     },
     {
         "ticker": "ITW UN Equity",
@@ -977,7 +977,7 @@
     },
     {
         "ticker": "IPG UN Equity",
-        "name": "Interpublic Group of Cos Inc/The"
+        "name": "Interpublic Group of Cos Inc\/The"
     },
     {
         "ticker": "INTU UW Equity",
@@ -1005,7 +1005,7 @@
     },
     {
         "ticker": "SJM UN Equity",
-        "name": "JM Smucker Co/The"
+        "name": "JM Smucker Co\/The"
     },
     {
         "ticker": "JNJ UN Equity",
@@ -1053,7 +1053,7 @@
     },
     {
         "ticker": "KMI UN Equity",
-        "name": "Kinder Morgan Inc/DE"
+        "name": "Kinder Morgan Inc\/DE"
     },
     {
         "ticker": "KLAC UW Equity",
@@ -1069,7 +1069,7 @@
     },
     {
         "ticker": "KR UN Equity",
-        "name": "Kroger Co/The"
+        "name": "Kroger Co\/The"
     },
     {
         "ticker": "LB UN Equity",
@@ -1137,7 +1137,7 @@
     },
     {
         "ticker": "MAC UN Equity",
-        "name": "Macerich Co/The"
+        "name": "Macerich Co\/The"
     },
     {
         "ticker": "M UN Equity",
@@ -1157,7 +1157,7 @@
     },
     {
         "ticker": "MAR UW Equity",
-        "name": "Marriott International Inc/DE"
+        "name": "Marriott International Inc\/DE"
     },
     {
         "ticker": "MMC UN Equity",
@@ -1181,7 +1181,7 @@
     },
     {
         "ticker": "MKC UN Equity",
-        "name": "McCormick & Co Inc/MD"
+        "name": "McCormick & Co Inc\/MD"
     },
     {
         "ticker": "MCD UN Equity",
@@ -1261,7 +1261,7 @@
     },
     {
         "ticker": "MOS UN Equity",
-        "name": "Mosaic Co/The"
+        "name": "Mosaic Co\/The"
     },
     {
         "ticker": "MSI UN Equity",
@@ -1273,7 +1273,7 @@
     },
     {
         "ticker": "MYL UW Equity",
-        "name": "Mylan Inc/PA"
+        "name": "Mylan Inc\/PA"
     },
     {
         "ticker": "NBR UN Equity",
@@ -1281,7 +1281,7 @@
     },
     {
         "ticker": "NDAQ UW Equity",
-        "name": "NASDAQ OMX Group Inc/The"
+        "name": "NASDAQ OMX Group Inc\/The"
     },
     {
         "ticker": "NOV UN Equity",
@@ -1477,7 +1477,7 @@
     },
     {
         "ticker": "PNC UN Equity",
-        "name": "PNC Financial Services Group Inc/The"
+        "name": "PNC Financial Services Group Inc\/The"
     },
     {
         "ticker": "PPG UN Equity",
@@ -1497,7 +1497,7 @@
     },
     {
         "ticker": "PCLN UW Equity",
-        "name": "Priceline Group Inc/The"
+        "name": "Priceline Group Inc\/The"
     },
     {
         "ticker": "PFG UN Equity",
@@ -1505,11 +1505,11 @@
     },
     {
         "ticker": "PG UN Equity",
-        "name": "Procter & Gamble Co/The"
+        "name": "Procter & Gamble Co\/The"
     },
     {
         "ticker": "PGR UN Equity",
-        "name": "Progressive Corp/The"
+        "name": "Progressive Corp\/The"
     },
     {
         "ticker": "PLD UN Equity",
@@ -1645,7 +1645,7 @@
     },
     {
         "ticker": "SHW UN Equity",
-        "name": "Sherwin-Williams Co/The"
+        "name": "Sherwin-Williams Co\/The"
     },
     {
         "ticker": "SIAL UW Equity",
@@ -1661,7 +1661,7 @@
     },
     {
         "ticker": "SO UN Equity",
-        "name": "Southern Co/The"
+        "name": "Southern Co\/The"
     },
     {
         "ticker": "LUV UN Equity",
@@ -1773,7 +1773,7 @@
     },
     {
         "ticker": "TJX UN Equity",
-        "name": "TJX Cos Inc/The"
+        "name": "TJX Cos Inc\/The"
     },
     {
         "ticker": "TMK UN Equity",
@@ -1793,7 +1793,7 @@
     },
     {
         "ticker": "TRV UN Equity",
-        "name": "Travelers Cos Inc/The"
+        "name": "Travelers Cos Inc\/The"
     },
     {
         "ticker": "TRIP UW Equity",
@@ -1849,7 +1849,7 @@
     },
     {
         "ticker": "USB UN Equity",
-        "name": "US Bancorp/MN"
+        "name": "US Bancorp\/MN"
     },
     {
         "ticker": "VLO UN Equity",
@@ -1905,7 +1905,7 @@
     },
     {
         "ticker": "DIS UN Equity",
-        "name": "Walt Disney Co/The"
+        "name": "Walt Disney Co\/The"
     },
     {
         "ticker": "WM UN Equity",
@@ -1929,7 +1929,7 @@
     },
     {
         "ticker": "WU UN Equity",
-        "name": "Western Union Co/The"
+        "name": "Western Union Co\/The"
     },
     {
         "ticker": "WY UN Equity",
@@ -1945,7 +1945,7 @@
     },
     {
         "ticker": "WMB UN Equity",
-        "name": "Williams Cos Inc/The"
+        "name": "Williams Cos Inc\/The"
     },
     {
         "ticker": "WIN UW Equity",
@@ -1985,7 +1985,7 @@
     },
     {
         "ticker": "XYL UN Equity",
-        "name": "Xylem Inc/NY"
+        "name": "Xylem Inc\/NY"
     },
     {
         "ticker": "YHOO UW Equity",

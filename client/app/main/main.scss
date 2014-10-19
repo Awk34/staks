@@ -78,12 +78,18 @@
 #dashboard-root {
     padding: 20px;
     min-height: 400px;
+    height: auto !important;
 }
 
 .item {
     display: inline-block;
-    width: 25%;
+    width: 33%;
 }
 .item.w2 {
-    width: 50%;
+    width: 100%;
+}
+
+.chart-title {
+    text-align: center;
+    font-size: 2.5rem;
 }
