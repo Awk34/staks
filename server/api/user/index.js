@@ -14,4 +14,8 @@ router.put('/:id/password', auth.isAuthenticated(), controller.changePassword);
 router.get('/:id', auth.isAuthenticated(), controller.show);
 router.post('/', controller.create);
 
+// Graphs
+router.get('/:id/graphs', auth.isAuthenticated(), controller.getGraphs);
+router.post('/:id/graphs', auth.isAuthenticated(), controller.postGraphs);
+
 module.exports = router;

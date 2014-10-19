@@ -74,3 +74,16 @@
         transform: scaleY(2);
     }
 }
+
+#dashboard-root {
+    padding: 20px;
+    min-height: 400px;
+}
+
+.item {
+    display: inline-block;
+    width: 25%;
+}
+.item.w2 {
+    width: 50%;
+}

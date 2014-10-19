@@ -1,0 +1,2010 @@
+[
+    {
+        "ticker": "MMM UN Equity",
+        "name": "3M Co"
+    },
+    {
+        "ticker": "ABT UN Equity",
+        "name": "Abbott Laboratories"
+    },
+    {
+        "ticker": "ABBV UN Equity",
+        "name": "AbbVie Inc"
+    },
+    {
+        "ticker": "ACN UN Equity",
+        "name": "Accenture PLC"
+    },
+    {
+        "ticker": "ACE UN Equity",
+        "name": "ACE Ltd"
+    },
+    {
+        "ticker": "ACT UN Equity",
+        "name": "Actavis plc"
+    },
+    {
+        "ticker": "ADBE UW Equity",
+        "name": "Adobe Systems Inc"
+    },
+    {
+        "ticker": "ADT UN Equity",
+        "name": "ADT Corp/The"
+    },
+    {
+        "ticker": "AES UN Equity",
+        "name": "AES Corp/VA"
+    },
+    {
+        "ticker": "AET UN Equity",
+        "name": "Aetna Inc"
+    },
+    {
+        "ticker": "AMG UN Equity",
+        "name": "Affiliated Managers Group Inc"
+    },
+    {
+        "ticker": "AFL UN Equity",
+        "name": "Aflac Inc"
+    },
+    {
+        "ticker": "A UN Equity",
+        "name": "Agilent Technologies Inc"
+    },
+    {
+        "ticker": "GAS UN Equity",
+        "name": "AGL Resources Inc"
+    },
+    {
+        "ticker": "APD UN Equity",
+        "name": "Air Products & Chemicals Inc"
+    },
+    {
+        "ticker": "ARG UN Equity",
+        "name": "Airgas Inc"
+    },
+    {
+        "ticker": "AKAM UW Equity",
+        "name": "Akamai Technologies Inc"
+    },
+    {
+        "ticker": "AA UN Equity",
+        "name": "Alcoa Inc"
+    },
+    {
+        "ticker": "ALXN UW Equity",
+        "name": "Alexion Pharmaceuticals Inc"
+    },
+    {
+        "ticker": "ATI UN Equity",
+        "name": "Allegheny Technologies Inc"
+    },
+    {
+        "ticker": "ALLE UN Equity",
+        "name": "Allegion PLC"
+    },
+    {
+        "ticker": "AGN UN Equity",
+        "name": "Allergan Inc/United States"
+    },
+    {
+        "ticker": "ADS UN Equity",
+        "name": "Alliance Data Systems Corp"
+    },
+    {
+        "ticker": "ALL UN Equity",
+        "name": "Allstate Corp/The"
+    },
+    {
+        "ticker": "ALTR UW Equity",
+        "name": "Altera Corp"
+    },
+    {
+        "ticker": "MO UN Equity",
+        "name": "Altria Group Inc"
+    },
+    {
+        "ticker": "AMZN UW Equity",
+        "name": "Amazon.com Inc"
+    },
+    {
+        "ticker": "AEE UN Equity",
+        "name": "Ameren Corp"
+    },
+    {
+        "ticker": "AEP UN Equity",
+        "name": "American Electric Power Co Inc"
+    },
+    {
+        "ticker": "AXP UN Equity",
+        "name": "American Express Co"
+    },
+    {
+        "ticker": "AIG UN Equity",
+        "name": "American International Group Inc"
+    },
+    {
+        "ticker": "AMT UN Equity",
+        "name": "American Tower Corp"
+    },
+    {
+        "ticker": "AMP UN Equity",
+        "name": "Ameriprise Financial Inc"
+    },
+    {
+        "ticker": "ABC UN Equity",
+        "name": "AmerisourceBergen Corp"
+    },
+    {
+        "ticker": "AME UN Equity",
+        "name": "AMETEK Inc"
+    },
+    {
+        "ticker": "AMGN UW Equity",
+        "name": "Amgen Inc"
+    },
+    {
+        "ticker": "APH UN Equity",
+        "name": "Amphenol Corp"
+    },
+    {
+        "ticker": "APC UN Equity",
+        "name": "Anadarko Petroleum Corp"
+    },
+    {
+        "ticker": "ADI UW Equity",
+        "name": "Analog Devices Inc"
+    },
+    {
+        "ticker": "AON UN Equity",
+        "name": "Aon PLC"
+    },
+    {
+        "ticker": "APA UN Equity",
+        "name": "Apache Corp"
+    },
+    {
+        "ticker": "AIV UN Equity",
+        "name": "Apartment Investment & Management Co"
+    },
+    {
+        "ticker": "AAPL UW Equity",
+        "name": "Apple Inc"
+    },
+    {
+        "ticker": "AMAT UW Equity",
+        "name": "Applied Materials Inc"
+    },
+    {
+        "ticker": "ADM UN Equity",
+        "name": "Archer-Daniels-Midland Co"
+    },
+    {
+        "ticker": "AIZ UN Equity",
+        "name": "Assurant Inc"
+    },
+    {
+        "ticker": "T UN Equity",
+        "name": "AT&T Inc"
+    },
+    {
+        "ticker": "ADSK UW Equity",
+        "name": "Autodesk Inc"
+    },
+    {
+        "ticker": "ADP UW Equity",
+        "name": "Automatic Data Processing Inc"
+    },
+    {
+        "ticker": "AN UN Equity",
+        "name": "AutoNation Inc"
+    },
+    {
+        "ticker": "AZO UN Equity",
+        "name": "AutoZone Inc"
+    },
+    {
+        "ticker": "AVGO UW Equity",
+        "name": "Avago Technologies Ltd"
+    },
+    {
+        "ticker": "AVB UN Equity",
+        "name": "AvalonBay Communities Inc"
+    },
+    {
+        "ticker": "AVY UN Equity",
+        "name": "Avery Dennison Corp"
+    },
+    {
+        "ticker": "AVP UN Equity",
+        "name": "Avon Products Inc"
+    },
+    {
+        "ticker": "BHI UN Equity",
+        "name": "Baker Hughes Inc"
+    },
+    {
+        "ticker": "BLL UN Equity",
+        "name": "Ball Corp"
+    },
+    {
+        "ticker": "BAC UN Equity",
+        "name": "Bank of America Corp"
+    },
+    {
+        "ticker": "BK UN Equity",
+        "name": "Bank of New York Mellon Corp/The"
+    },
+    {
+        "ticker": "BAX UN Equity",
+        "name": "Baxter International Inc"
+    },
+    {
+        "ticker": "BBT UN Equity",
+        "name": "BB&T Corp"
+    },
+    {
+        "ticker": "BDX UN Equity",
+        "name": "Becton Dickinson and Co"
+    },
+    {
+        "ticker": "BBBY UW Equity",
+        "name": "Bed Bath & Beyond Inc"
+    },
+    {
+        "ticker": "BMS UN Equity",
+        "name": "Bemis Co Inc"
+    },
+    {
+        "ticker": "BRK/B UN Equity",
+        "name": "Berkshire Hathaway Inc"
+    },
+    {
+        "ticker": "BBY UN Equity",
+        "name": "Best Buy Co Inc"
+    },
+    {
+        "ticker": "BIIB UW Equity",
+        "name": "Biogen Idec Inc"
+    },
+    {
+        "ticker": "BLK UN Equity",
+        "name": "BlackRock Inc"
+    },
+    {
+        "ticker": "BA UN Equity",
+        "name": "Boeing Co/The"
+    },
+    {
+        "ticker": "BWA UN Equity",
+        "name": "BorgWarner Inc"
+    },
+    {
+        "ticker": "BXP UN Equity",
+        "name": "Boston Properties Inc"
+    },
+    {
+        "ticker": "BSX UN Equity",
+        "name": "Boston Scientific Corp"
+    },
+    {
+        "ticker": "BMY UN Equity",
+        "name": "Bristol-Myers Squibb Co"
+    },
+    {
+        "ticker": "BRCM UW Equity",
+        "name": "Broadcom Corp"
+    },
+    {
+        "ticker": "BF/B UN Equity",
+        "name": "Brown-Forman Corp"
+    },
+    {
+        "ticker": "CA UW Equity",
+        "name": "CA Inc"
+    },
+    {
+        "ticker": "CVC UN Equity",
+        "name": "Cablevision Systems Corp"
+    },
+    {
+        "ticker": "COG UN Equity",
+        "name": "Cabot Oil & Gas Corp"
+    },
+    {
+        "ticker": "CAM UN Equity",
+        "name": "Cameron International Corp"
+    },
+    {
+        "ticker": "CPB UN Equity",
+        "name": "Campbell Soup Co"
+    },
+    {
+        "ticker": "COF UN Equity",
+        "name": "Capital One Financial Corp"
+    },
+    {
+        "ticker": "CAH UN Equity",
+        "name": "Cardinal Health Inc"
+    },
+    {
+        "ticker": "CFN UN Equity",
+        "name": "CareFusion Corp"
+    },
+    {
+        "ticker": "KMX UN Equity",
+        "name": "CarMax Inc"
+    },
+    {
+        "ticker": "CCL UN Equity",
+        "name": "Carnival Corp"
+    },
+    {
+        "ticker": "CAT UN Equity",
+        "name": "Caterpillar Inc"
+    },
+    {
+        "ticker": "CBG UN Equity",
+        "name": "CBRE Group Inc"
+    },
+    {
+        "ticker": "CBS UN Equity",
+        "name": "CBS Corp"
+    },
+    {
+        "ticker": "CELG UW Equity",
+        "name": "Celgene Corp"
+    },
+    {
+        "ticker": "CNP UN Equity",
+        "name": "CenterPoint Energy Inc"
+    },
+    {
+        "ticker": "CTL UN Equity",
+        "name": "CenturyLink Inc"
+    },
+    {
+        "ticker": "CERN UW Equity",
+        "name": "Cerner Corp"
+    },
+    {
+        "ticker": "CF UN Equity",
+        "name": "CF Industries Holdings Inc"
+    },
+    {
+        "ticker": "CHRW UW Equity",
+        "name": "CH Robinson Worldwide Inc"
+    },
+    {
+        "ticker": "SCHW UN Equity",
+        "name": "Charles Schwab Corp/The"
+    },
+    {
+        "ticker": "CHK UN Equity",
+        "name": "Chesapeake Energy Corp"
+    },
+    {
+        "ticker": "CVX UN Equity",
+        "name": "Chevron Corp"
+    },
+    {
+        "ticker": "CMG UN Equity",
+        "name": "Chipotle Mexican Grill Inc"
+    },
+    {
+        "ticker": "CB UN Equity",
+        "name": "Chubb Corp/The"
+    },
+    {
+        "ticker": "CI UN Equity",
+        "name": "Cigna Corp"
+    },
+    {
+        "ticker": "XEC UN Equity",
+        "name": "Cimarex Energy Co"
+    },
+    {
+        "ticker": "CINF UW Equity",
+        "name": "Cincinnati Financial Corp"
+    },
+    {
+        "ticker": "CTAS UW Equity",
+        "name": "Cintas Corp"
+    },
+    {
+        "ticker": "CSCO UW Equity",
+        "name": "Cisco Systems Inc"
+    },
+    {
+        "ticker": "C UN Equity",
+        "name": "Citigroup Inc"
+    },
+    {
+        "ticker": "CTXS UW Equity",
+        "name": "Citrix Systems Inc"
+    },
+    {
+        "ticker": "CLX UN Equity",
+        "name": "Clorox Co/The"
+    },
+    {
+        "ticker": "CME UW Equity",
+        "name": "CME Group Inc/IL"
+    },
+    {
+        "ticker": "CMS UN Equity",
+        "name": "CMS Energy Corp"
+    },
+    {
+        "ticker": "COH UN Equity",
+        "name": "Coach Inc"
+    },
+    {
+        "ticker": "KO UN Equity",
+        "name": "Coca-Cola Co/The"
+    },
+    {
+        "ticker": "CCE UN Equity",
+        "name": "Coca-Cola Enterprises Inc"
+    },
+    {
+        "ticker": "CTSH UW Equity",
+        "name": "Cognizant Technology Solutions Corp"
+    },
+    {
+        "ticker": "CL UN Equity",
+        "name": "Colgate-Palmolive Co"
+    },
+    {
+        "ticker": "CMCSA UW Equity",
+        "name": "Comcast Corp"
+    },
+    {
+        "ticker": "CMA UN Equity",
+        "name": "Comerica Inc"
+    },
+    {
+        "ticker": "CSC UN Equity",
+        "name": "Computer Sciences Corp"
+    },
+    {
+        "ticker": "CAG UN Equity",
+        "name": "ConAgra Foods Inc"
+    },
+    {
+        "ticker": "COP UN Equity",
+        "name": "ConocoPhillips"
+    },
+    {
+        "ticker": "CNX UN Equity",
+        "name": "CONSOL Energy Inc"
+    },
+    {
+        "ticker": "ED UN Equity",
+        "name": "Consolidated Edison Inc"
+    },
+    {
+        "ticker": "STZ UN Equity",
+        "name": "Constellation Brands Inc"
+    },
+    {
+        "ticker": "GLW UN Equity",
+        "name": "Corning Inc"
+    },
+    {
+        "ticker": "COST UW Equity",
+        "name": "Costco Wholesale Corp"
+    },
+    {
+        "ticker": "COV UN Equity",
+        "name": "Covidien PLC"
+    },
+    {
+        "ticker": "BCR UN Equity",
+        "name": "CR Bard Inc"
+    },
+    {
+        "ticker": "CCI UN Equity",
+        "name": "Crown Castle International Corp"
+    },
+    {
+        "ticker": "CSX UN Equity",
+        "name": "CSX Corp"
+    },
+    {
+        "ticker": "CMI UN Equity",
+        "name": "Cummins Inc"
+    },
+    {
+        "ticker": "CVS UN Equity",
+        "name": "CVS Health Corp"
+    },
+    {
+        "ticker": "DHR UN Equity",
+        "name": "Danaher Corp"
+    },
+    {
+        "ticker": "DRI UN Equity",
+        "name": "Darden Restaurants Inc"
+    },
+    {
+        "ticker": "DVA UN Equity",
+        "name": "DaVita HealthCare Partners Inc"
+    },
+    {
+        "ticker": "DE UN Equity",
+        "name": "Deere & Co"
+    },
+    {
+        "ticker": "DLPH UN Equity",
+        "name": "Delphi Automotive PLC"
+    },
+    {
+        "ticker": "DAL UN Equity",
+        "name": "Delta Air Lines Inc"
+    },
+    {
+        "ticker": "DNR UN Equity",
+        "name": "Denbury Resources Inc"
+    },
+    {
+        "ticker": "XRAY UW Equity",
+        "name": "DENTSPLY International Inc"
+    },
+    {
+        "ticker": "DVN UN Equity",
+        "name": "Devon Energy Corp"
+    },
+    {
+        "ticker": "DO UN Equity",
+        "name": "Diamond Offshore Drilling Inc"
+    },
+    {
+        "ticker": "DTV UW Equity",
+        "name": "DIRECTV"
+    },
+    {
+        "ticker": "DFS UN Equity",
+        "name": "Discover Financial Services"
+    },
+    {
+        "ticker": "DISCA UW Equity",
+        "name": "Discovery Communications Inc"
+    },
+    {
+        "ticker": "DISCK UW Equity",
+        "name": "Discovery Communications Inc"
+    },
+    {
+        "ticker": "DG UN Equity",
+        "name": "Dollar General Corp"
+    },
+    {
+        "ticker": "DLTR UW Equity",
+        "name": "Dollar Tree Inc"
+    },
+    {
+        "ticker": "D UN Equity",
+        "name": "Dominion Resources Inc/VA"
+    },
+    {
+        "ticker": "DOV UN Equity",
+        "name": "Dover Corp"
+    },
+    {
+        "ticker": "DOW UN Equity",
+        "name": "Dow Chemical Co/The"
+    },
+    {
+        "ticker": "DHI UN Equity",
+        "name": "DR Horton Inc"
+    },
+    {
+        "ticker": "DPS UN Equity",
+        "name": "Dr Pepper Snapple Group Inc"
+    },
+    {
+        "ticker": "DTE UN Equity",
+        "name": "DTE Energy Co"
+    },
+    {
+        "ticker": "DUK UN Equity",
+        "name": "Duke Energy Corp"
+    },
+    {
+        "ticker": "DNB UN Equity",
+        "name": "Dun & Bradstreet Corp/The"
+    },
+    {
+        "ticker": "ETFC UW Equity",
+        "name": "E*TRADE Financial Corp"
+    },
+    {
+        "ticker": "EMN UN Equity",
+        "name": "Eastman Chemical Co"
+    },
+    {
+        "ticker": "ETN UN Equity",
+        "name": "Eaton Corp PLC"
+    },
+    {
+        "ticker": "EBAY UW Equity",
+        "name": "eBay Inc"
+    },
+    {
+        "ticker": "ECL UN Equity",
+        "name": "Ecolab Inc"
+    },
+    {
+        "ticker": "EIX UN Equity",
+        "name": "Edison International"
+    },
+    {
+        "ticker": "EW UN Equity",
+        "name": "Edwards Lifesciences Corp"
+    },
+    {
+        "ticker": "DD UN Equity",
+        "name": "EI du Pont de Nemours & Co"
+    },
+    {
+        "ticker": "EA UW Equity",
+        "name": "Electronic Arts Inc"
+    },
+    {
+        "ticker": "LLY UN Equity",
+        "name": "Eli Lilly & Co"
+    },
+    {
+        "ticker": "EMC UN Equity",
+        "name": "EMC Corp/MA"
+    },
+    {
+        "ticker": "EMR UN Equity",
+        "name": "Emerson Electric Co"
+    },
+    {
+        "ticker": "ESV UN Equity",
+        "name": "Ensco PLC"
+    },
+    {
+        "ticker": "ETR UN Equity",
+        "name": "Entergy Corp"
+    },
+    {
+        "ticker": "EOG UN Equity",
+        "name": "EOG Resources Inc"
+    },
+    {
+        "ticker": "EQT UN Equity",
+        "name": "EQT Corp"
+    },
+    {
+        "ticker": "EFX UN Equity",
+        "name": "Equifax Inc"
+    },
+    {
+        "ticker": "EQR UN Equity",
+        "name": "Equity Residential"
+    },
+    {
+        "ticker": "ESS UN Equity",
+        "name": "Essex Property Trust Inc"
+    },
+    {
+        "ticker": "EL UN Equity",
+        "name": "Estee Lauder Cos Inc/The"
+    },
+    {
+        "ticker": "EXC UN Equity",
+        "name": "Exelon Corp"
+    },
+    {
+        "ticker": "EXPE UW Equity",
+        "name": "Expedia Inc"
+    },
+    {
+        "ticker": "EXPD UW Equity",
+        "name": "Expeditors International of Washington I"
+    },
+    {
+        "ticker": "ESRX UW Equity",
+        "name": "Express Scripts Holding Co"
+    },
+    {
+        "ticker": "XOM UN Equity",
+        "name": "Exxon Mobil Corp"
+    },
+    {
+        "ticker": "FFIV UW Equity",
+        "name": "F5 Networks Inc"
+    },
+    {
+        "ticker": "FB UW Equity",
+        "name": "Facebook Inc"
+    },
+    {
+        "ticker": "FDO UN Equity",
+        "name": "Family Dollar Stores Inc"
+    },
+    {
+        "ticker": "FAST UW Equity",
+        "name": "Fastenal Co"
+    },
+    {
+        "ticker": "FDX UN Equity",
+        "name": "FedEx Corp"
+    },
+    {
+        "ticker": "FIS UN Equity",
+        "name": "Fidelity National Information Services I"
+    },
+    {
+        "ticker": "FITB UW Equity",
+        "name": "Fifth Third Bancorp"
+    },
+    {
+        "ticker": "FSLR UW Equity",
+        "name": "First Solar Inc"
+    },
+    {
+        "ticker": "FE UN Equity",
+        "name": "FirstEnergy Corp"
+    },
+    {
+        "ticker": "FISV UW Equity",
+        "name": "Fiserv Inc"
+    },
+    {
+        "ticker": "FLIR UW Equity",
+        "name": "FLIR Systems Inc"
+    },
+    {
+        "ticker": "FLS UN Equity",
+        "name": "Flowserve Corp"
+    },
+    {
+        "ticker": "FLR UN Equity",
+        "name": "Fluor Corp"
+    },
+    {
+        "ticker": "FMC UN Equity",
+        "name": "FMC Corp"
+    },
+    {
+        "ticker": "FTI UN Equity",
+        "name": "FMC Technologies Inc"
+    },
+    {
+        "ticker": "F UN Equity",
+        "name": "Ford Motor Co"
+    },
+    {
+        "ticker": "FOSL UW Equity",
+        "name": "Fossil Group Inc"
+    },
+    {
+        "ticker": "BEN UN Equity",
+        "name": "Franklin Resources Inc"
+    },
+    {
+        "ticker": "FCX UN Equity",
+        "name": "Freeport-McMoRan Inc"
+    },
+    {
+        "ticker": "FTR UW Equity",
+        "name": "Frontier Communications Corp"
+    },
+    {
+        "ticker": "GME UN Equity",
+        "name": "GameStop Corp"
+    },
+    {
+        "ticker": "GCI UN Equity",
+        "name": "Gannett Co Inc"
+    },
+    {
+        "ticker": "GPS UN Equity",
+        "name": "Gap Inc/The"
+    },
+    {
+        "ticker": "GRMN UW Equity",
+        "name": "Garmin Ltd"
+    },
+    {
+        "ticker": "GD UN Equity",
+        "name": "General Dynamics Corp"
+    },
+    {
+        "ticker": "GE UN Equity",
+        "name": "General Electric Co"
+    },
+    {
+        "ticker": "GGP UN Equity",
+        "name": "General Growth Properties Inc"
+    },
+    {
+        "ticker": "GIS UN Equity",
+        "name": "General Mills Inc"
+    },
+    {
+        "ticker": "GM UN Equity",
+        "name": "General Motors Co"
+    },
+    {
+        "ticker": "GPC UN Equity",
+        "name": "Genuine Parts Co"
+    },
+    {
+        "ticker": "GNW UN Equity",
+        "name": "Genworth Financial Inc"
+    },
+    {
+        "ticker": "GILD UW Equity",
+        "name": "Gilead Sciences Inc"
+    },
+    {
+        "ticker": "GS UN Equity",
+        "name": "Goldman Sachs Group Inc/The"
+    },
+    {
+        "ticker": "GT UW Equity",
+        "name": "Goodyear Tire & Rubber Co/The"
+    },
+    {
+        "ticker": "GOOGL UW Equity",
+        "name": "Google Inc"
+    },
+    {
+        "ticker": "GOOG UW Equity",
+        "name": "Google Inc"
+    },
+    {
+        "ticker": "HRB UN Equity",
+        "name": "H&R Block Inc"
+    },
+    {
+        "ticker": "HAL UN Equity",
+        "name": "Halliburton Co"
+    },
+    {
+        "ticker": "HOG UN Equity",
+        "name": "Harley-Davidson Inc"
+    },
+    {
+        "ticker": "HAR UN Equity",
+        "name": "Harman International Industries Inc"
+    },
+    {
+        "ticker": "HRS UN Equity",
+        "name": "Harris Corp"
+    },
+    {
+        "ticker": "HIG UN Equity",
+        "name": "Hartford Financial Services Group Inc/Th"
+    },
+    {
+        "ticker": "HAS UW Equity",
+        "name": "Hasbro Inc"
+    },
+    {
+        "ticker": "HCP UN Equity",
+        "name": "HCP Inc"
+    },
+    {
+        "ticker": "HCN UN Equity",
+        "name": "Health Care REIT Inc"
+    },
+    {
+        "ticker": "HP UN Equity",
+        "name": "Helmerich & Payne Inc"
+    },
+    {
+        "ticker": "HSY UN Equity",
+        "name": "Hershey Co/The"
+    },
+    {
+        "ticker": "HES UN Equity",
+        "name": "Hess Corp"
+    },
+    {
+        "ticker": "HPQ UN Equity",
+        "name": "Hewlett-Packard Co"
+    },
+    {
+        "ticker": "HD UN Equity",
+        "name": "Home Depot Inc/The"
+    },
+    {
+        "ticker": "HON UN Equity",
+        "name": "Honeywell International Inc"
+    },
+    {
+        "ticker": "HRL UN Equity",
+        "name": "Hormel Foods Corp"
+    },
+    {
+        "ticker": "HSP UN Equity",
+        "name": "Hospira Inc"
+    },
+    {
+        "ticker": "HST UN Equity",
+        "name": "Host Hotels & Resorts Inc"
+    },
+    {
+        "ticker": "HCBK UW Equity",
+        "name": "Hudson City Bancorp Inc"
+    },
+    {
+        "ticker": "HUM UN Equity",
+        "name": "Humana Inc"
+    },
+    {
+        "ticker": "HBAN UW Equity",
+        "name": "Huntington Bancshares Inc/OH"
+    },
+    {
+        "ticker": "ITW UN Equity",
+        "name": "Illinois Tool Works Inc"
+    },
+    {
+        "ticker": "IR UN Equity",
+        "name": "Ingersoll-Rand PLC"
+    },
+    {
+        "ticker": "TEG UN Equity",
+        "name": "Integrys Energy Group Inc"
+    },
+    {
+        "ticker": "INTC UW Equity",
+        "name": "Intel Corp"
+    },
+    {
+        "ticker": "ICE UN Equity",
+        "name": "Intercontinental Exchange Inc"
+    },
+    {
+        "ticker": "IBM UN Equity",
+        "name": "International Business Machines Corp"
+    },
+    {
+        "ticker": "IFF UN Equity",
+        "name": "International Flavors & Fragrances Inc"
+    },
+    {
+        "ticker": "IP UN Equity",
+        "name": "International Paper Co"
+    },
+    {
+        "ticker": "IPG UN Equity",
+        "name": "Interpublic Group of Cos Inc/The"
+    },
+    {
+        "ticker": "INTU UW Equity",
+        "name": "Intuit Inc"
+    },
+    {
+        "ticker": "ISRG UW Equity",
+        "name": "Intuitive Surgical Inc"
+    },
+    {
+        "ticker": "IVZ UN Equity",
+        "name": "Invesco Ltd"
+    },
+    {
+        "ticker": "IRM UN Equity",
+        "name": "Iron Mountain Inc"
+    },
+    {
+        "ticker": "JBL UN Equity",
+        "name": "Jabil Circuit Inc"
+    },
+    {
+        "ticker": "JEC UN Equity",
+        "name": "Jacobs Engineering Group Inc"
+    },
+    {
+        "ticker": "SJM UN Equity",
+        "name": "JM Smucker Co/The"
+    },
+    {
+        "ticker": "JNJ UN Equity",
+        "name": "Johnson & Johnson"
+    },
+    {
+        "ticker": "JCI UN Equity",
+        "name": "Johnson Controls Inc"
+    },
+    {
+        "ticker": "JOY UN Equity",
+        "name": "Joy Global Inc"
+    },
+    {
+        "ticker": "JPM UN Equity",
+        "name": "JPMorgan Chase & Co"
+    },
+    {
+        "ticker": "JNPR UN Equity",
+        "name": "Juniper Networks Inc"
+    },
+    {
+        "ticker": "KSU UN Equity",
+        "name": "Kansas City Southern"
+    },
+    {
+        "ticker": "K UN Equity",
+        "name": "Kellogg Co"
+    },
+    {
+        "ticker": "GMCR UW Equity",
+        "name": "Keurig Green Mountain Inc"
+    },
+    {
+        "ticker": "KEY UN Equity",
+        "name": "KeyCorp"
+    },
+    {
+        "ticker": "KMB UN Equity",
+        "name": "Kimberly-Clark Corp"
+    },
+    {
+        "ticker": "KIM UN Equity",
+        "name": "Kimco Realty Corp"
+    },
+    {
+        "ticker": "KMI UN Equity",
+        "name": "Kinder Morgan Inc/DE"
+    },
+    {
+        "ticker": "KLAC UW Equity",
+        "name": "KLA-Tencor Corp"
+    },
+    {
+        "ticker": "KSS UN Equity",
+        "name": "Kohl's Corp"
+    },
+    {
+        "ticker": "KRFT UW Equity",
+        "name": "Kraft Foods Group Inc"
+    },
+    {
+        "ticker": "KR UN Equity",
+        "name": "Kroger Co/The"
+    },
+    {
+        "ticker": "LB UN Equity",
+        "name": "L Brands Inc"
+    },
+    {
+        "ticker": "LLL UN Equity",
+        "name": "L-3 Communications Holdings Inc"
+    },
+    {
+        "ticker": "LH UN Equity",
+        "name": "Laboratory Corp of America Holdings"
+    },
+    {
+        "ticker": "LRCX UW Equity",
+        "name": "Lam Research Corp"
+    },
+    {
+        "ticker": "LM UN Equity",
+        "name": "Legg Mason Inc"
+    },
+    {
+        "ticker": "LEG UN Equity",
+        "name": "Leggett & Platt Inc"
+    },
+    {
+        "ticker": "LEN UN Equity",
+        "name": "Lennar Corp"
+    },
+    {
+        "ticker": "LUK UN Equity",
+        "name": "Leucadia National Corp"
+    },
+    {
+        "ticker": "LNC UN Equity",
+        "name": "Lincoln National Corp"
+    },
+    {
+        "ticker": "LLTC UW Equity",
+        "name": "Linear Technology Corp"
+    },
+    {
+        "ticker": "LMT UN Equity",
+        "name": "Lockheed Martin Corp"
+    },
+    {
+        "ticker": "L UN Equity",
+        "name": "Loews Corp"
+    },
+    {
+        "ticker": "LO UN Equity",
+        "name": "Lorillard Inc"
+    },
+    {
+        "ticker": "LOW UN Equity",
+        "name": "Lowe's Cos Inc"
+    },
+    {
+        "ticker": "LYB UN Equity",
+        "name": "LyondellBasell Industries NV"
+    },
+    {
+        "ticker": "MTB UN Equity",
+        "name": "M&T Bank Corp"
+    },
+    {
+        "ticker": "MAC UN Equity",
+        "name": "Macerich Co/The"
+    },
+    {
+        "ticker": "M UN Equity",
+        "name": "Macy's Inc"
+    },
+    {
+        "ticker": "MNK UN Equity",
+        "name": "Mallinckrodt PLC"
+    },
+    {
+        "ticker": "MRO UN Equity",
+        "name": "Marathon Oil Corp"
+    },
+    {
+        "ticker": "MPC UN Equity",
+        "name": "Marathon Petroleum Corp"
+    },
+    {
+        "ticker": "MAR UW Equity",
+        "name": "Marriott International Inc/DE"
+    },
+    {
+        "ticker": "MMC UN Equity",
+        "name": "Marsh & McLennan Cos Inc"
+    },
+    {
+        "ticker": "MLM UN Equity",
+        "name": "Martin Marietta Materials Inc"
+    },
+    {
+        "ticker": "MAS UN Equity",
+        "name": "Masco Corp"
+    },
+    {
+        "ticker": "MA UN Equity",
+        "name": "MasterCard Inc"
+    },
+    {
+        "ticker": "MAT UW Equity",
+        "name": "Mattel Inc"
+    },
+    {
+        "ticker": "MKC UN Equity",
+        "name": "McCormick & Co Inc/MD"
+    },
+    {
+        "ticker": "MCD UN Equity",
+        "name": "McDonald's Corp"
+    },
+    {
+        "ticker": "MHFI UN Equity",
+        "name": "McGraw Hill Financial Inc"
+    },
+    {
+        "ticker": "MCK UN Equity",
+        "name": "McKesson Corp"
+    },
+    {
+        "ticker": "MJN UN Equity",
+        "name": "Mead Johnson Nutrition Co"
+    },
+    {
+        "ticker": "MWV UN Equity",
+        "name": "MeadWestvaco Corp"
+    },
+    {
+        "ticker": "MDT UN Equity",
+        "name": "Medtronic Inc"
+    },
+    {
+        "ticker": "MRK UN Equity",
+        "name": "Merck & Co Inc"
+    },
+    {
+        "ticker": "MET UN Equity",
+        "name": "MetLife Inc"
+    },
+    {
+        "ticker": "KORS UN Equity",
+        "name": "Michael Kors Holdings Ltd"
+    },
+    {
+        "ticker": "MCHP UW Equity",
+        "name": "Microchip Technology Inc"
+    },
+    {
+        "ticker": "MU UW Equity",
+        "name": "Micron Technology Inc"
+    },
+    {
+        "ticker": "MSFT UW Equity",
+        "name": "Microsoft Corp"
+    },
+    {
+        "ticker": "MHK UN Equity",
+        "name": "Mohawk Industries Inc"
+    },
+    {
+        "ticker": "TAP UN Equity",
+        "name": "Molson Coors Brewing Co"
+    },
+    {
+        "ticker": "MDLZ UW Equity",
+        "name": "Mondelez International Inc"
+    },
+    {
+        "ticker": "MON UN Equity",
+        "name": "Monsanto Co"
+    },
+    {
+        "ticker": "MNST UW Equity",
+        "name": "Monster Beverage Corp"
+    },
+    {
+        "ticker": "MCO UN Equity",
+        "name": "Moody's Corp"
+    },
+    {
+        "ticker": "MS UN Equity",
+        "name": "Morgan Stanley"
+    },
+    {
+        "ticker": "MOS UN Equity",
+        "name": "Mosaic Co/The"
+    },
+    {
+        "ticker": "MSI UN Equity",
+        "name": "Motorola Solutions Inc"
+    },
+    {
+        "ticker": "MUR UN Equity",
+        "name": "Murphy Oil Corp"
+    },
+    {
+        "ticker": "MYL UW Equity",
+        "name": "Mylan Inc/PA"
+    },
+    {
+        "ticker": "NBR UN Equity",
+        "name": "Nabors Industries Ltd"
+    },
+    {
+        "ticker": "NDAQ UW Equity",
+        "name": "NASDAQ OMX Group Inc/The"
+    },
+    {
+        "ticker": "NOV UN Equity",
+        "name": "National Oilwell Varco Inc"
+    },
+    {
+        "ticker": "NAVI UW Equity",
+        "name": "Navient Corp"
+    },
+    {
+        "ticker": "NTAP UW Equity",
+        "name": "NetApp Inc"
+    },
+    {
+        "ticker": "NFLX UW Equity",
+        "name": "Netflix Inc"
+    },
+    {
+        "ticker": "NWL UN Equity",
+        "name": "Newell Rubbermaid Inc"
+    },
+    {
+        "ticker": "NFX UN Equity",
+        "name": "Newfield Exploration Co"
+    },
+    {
+        "ticker": "NEM UN Equity",
+        "name": "Newmont Mining Corp"
+    },
+    {
+        "ticker": "NWSA UW Equity",
+        "name": "News Corp"
+    },
+    {
+        "ticker": "NEE UN Equity",
+        "name": "NextEra Energy Inc"
+    },
+    {
+        "ticker": "NLSN UN Equity",
+        "name": "Nielsen NV"
+    },
+    {
+        "ticker": "NKE UN Equity",
+        "name": "NIKE Inc"
+    },
+    {
+        "ticker": "NI UN Equity",
+        "name": "NiSource Inc"
+    },
+    {
+        "ticker": "NE UN Equity",
+        "name": "Noble Corp plc"
+    },
+    {
+        "ticker": "NBL UN Equity",
+        "name": "Noble Energy Inc"
+    },
+    {
+        "ticker": "JWN UN Equity",
+        "name": "Nordstrom Inc"
+    },
+    {
+        "ticker": "NSC UN Equity",
+        "name": "Norfolk Southern Corp"
+    },
+    {
+        "ticker": "NU UN Equity",
+        "name": "Northeast Utilities"
+    },
+    {
+        "ticker": "NTRS UW Equity",
+        "name": "Northern Trust Corp"
+    },
+    {
+        "ticker": "NOC UN Equity",
+        "name": "Northrop Grumman Corp"
+    },
+    {
+        "ticker": "NRG UN Equity",
+        "name": "NRG Energy Inc"
+    },
+    {
+        "ticker": "NUE UN Equity",
+        "name": "Nucor Corp"
+    },
+    {
+        "ticker": "NVDA UW Equity",
+        "name": "NVIDIA Corp"
+    },
+    {
+        "ticker": "ORLY UW Equity",
+        "name": "O'Reilly Automotive Inc"
+    },
+    {
+        "ticker": "OXY UN Equity",
+        "name": "Occidental Petroleum Corp"
+    },
+    {
+        "ticker": "OMC UN Equity",
+        "name": "Omnicom Group Inc"
+    },
+    {
+        "ticker": "OKE UN Equity",
+        "name": "ONEOK Inc"
+    },
+    {
+        "ticker": "ORCL UN Equity",
+        "name": "Oracle Corp"
+    },
+    {
+        "ticker": "OI UN Equity",
+        "name": "Owens-Illinois Inc"
+    },
+    {
+        "ticker": "PCAR UW Equity",
+        "name": "PACCAR Inc"
+    },
+    {
+        "ticker": "PLL UN Equity",
+        "name": "Pall Corp"
+    },
+    {
+        "ticker": "PH UN Equity",
+        "name": "Parker-Hannifin Corp"
+    },
+    {
+        "ticker": "PDCO UW Equity",
+        "name": "Patterson Cos Inc"
+    },
+    {
+        "ticker": "PAYX UW Equity",
+        "name": "Paychex Inc"
+    },
+    {
+        "ticker": "PNR UN Equity",
+        "name": "Pentair PLC"
+    },
+    {
+        "ticker": "PBCT UW Equity",
+        "name": "People's United Financial Inc"
+    },
+    {
+        "ticker": "POM UN Equity",
+        "name": "Pepco Holdings Inc"
+    },
+    {
+        "ticker": "PEP UN Equity",
+        "name": "PepsiCo Inc"
+    },
+    {
+        "ticker": "PKI UN Equity",
+        "name": "PerkinElmer Inc"
+    },
+    {
+        "ticker": "PRGO UN Equity",
+        "name": "Perrigo Co PLC"
+    },
+    {
+        "ticker": "PETM UW Equity",
+        "name": "PetSmart Inc"
+    },
+    {
+        "ticker": "PFE UN Equity",
+        "name": "Pfizer Inc"
+    },
+    {
+        "ticker": "PCG UN Equity",
+        "name": "PG&E Corp"
+    },
+    {
+        "ticker": "PM UN Equity",
+        "name": "Philip Morris International Inc"
+    },
+    {
+        "ticker": "PSX UN Equity",
+        "name": "Phillips 66"
+    },
+    {
+        "ticker": "PNW UN Equity",
+        "name": "Pinnacle West Capital Corp"
+    },
+    {
+        "ticker": "PXD UN Equity",
+        "name": "Pioneer Natural Resources Co"
+    },
+    {
+        "ticker": "PBI UN Equity",
+        "name": "Pitney Bowes Inc"
+    },
+    {
+        "ticker": "PCL UN Equity",
+        "name": "Plum Creek Timber Co Inc"
+    },
+    {
+        "ticker": "PNC UN Equity",
+        "name": "PNC Financial Services Group Inc/The"
+    },
+    {
+        "ticker": "PPG UN Equity",
+        "name": "PPG Industries Inc"
+    },
+    {
+        "ticker": "PPL UN Equity",
+        "name": "PPL Corp"
+    },
+    {
+        "ticker": "PX UN Equity",
+        "name": "Praxair Inc"
+    },
+    {
+        "ticker": "PCP UN Equity",
+        "name": "Precision Castparts Corp"
+    },
+    {
+        "ticker": "PCLN UW Equity",
+        "name": "Priceline Group Inc/The"
+    },
+    {
+        "ticker": "PFG UN Equity",
+        "name": "Principal Financial Group Inc"
+    },
+    {
+        "ticker": "PG UN Equity",
+        "name": "Procter & Gamble Co/The"
+    },
+    {
+        "ticker": "PGR UN Equity",
+        "name": "Progressive Corp/The"
+    },
+    {
+        "ticker": "PLD UN Equity",
+        "name": "Prologis Inc"
+    },
+    {
+        "ticker": "PRU UN Equity",
+        "name": "Prudential Financial Inc"
+    },
+    {
+        "ticker": "PEG UN Equity",
+        "name": "Public Service Enterprise Group Inc"
+    },
+    {
+        "ticker": "PSA UN Equity",
+        "name": "Public Storage"
+    },
+    {
+        "ticker": "PHM UN Equity",
+        "name": "PulteGroup Inc"
+    },
+    {
+        "ticker": "PVH UN Equity",
+        "name": "PVH Corp"
+    },
+    {
+        "ticker": "QEP UN Equity",
+        "name": "QEP Resources Inc"
+    },
+    {
+        "ticker": "QCOM UW Equity",
+        "name": "QUALCOMM Inc"
+    },
+    {
+        "ticker": "PWR UN Equity",
+        "name": "Quanta Services Inc"
+    },
+    {
+        "ticker": "DGX UN Equity",
+        "name": "Quest Diagnostics Inc"
+    },
+    {
+        "ticker": "RL UN Equity",
+        "name": "Ralph Lauren Corp"
+    },
+    {
+        "ticker": "RRC UN Equity",
+        "name": "Range Resources Corp"
+    },
+    {
+        "ticker": "RTN UN Equity",
+        "name": "Raytheon Co"
+    },
+    {
+        "ticker": "RHT UN Equity",
+        "name": "Red Hat Inc"
+    },
+    {
+        "ticker": "REGN UW Equity",
+        "name": "Regeneron Pharmaceuticals Inc"
+    },
+    {
+        "ticker": "RF UN Equity",
+        "name": "Regions Financial Corp"
+    },
+    {
+        "ticker": "RSG UN Equity",
+        "name": "Republic Services Inc"
+    },
+    {
+        "ticker": "RAI UN Equity",
+        "name": "Reynolds American Inc"
+    },
+    {
+        "ticker": "RHI UN Equity",
+        "name": "Robert Half International Inc"
+    },
+    {
+        "ticker": "ROK UN Equity",
+        "name": "Rockwell Automation Inc"
+    },
+    {
+        "ticker": "COL UN Equity",
+        "name": "Rockwell Collins Inc"
+    },
+    {
+        "ticker": "ROP UN Equity",
+        "name": "Roper Industries Inc"
+    },
+    {
+        "ticker": "ROST UW Equity",
+        "name": "Ross Stores Inc"
+    },
+    {
+        "ticker": "R UN Equity",
+        "name": "Ryder System Inc"
+    },
+    {
+        "ticker": "SWY UN Equity",
+        "name": "Safeway Inc"
+    },
+    {
+        "ticker": "CRM UN Equity",
+        "name": "salesforce.com inc"
+    },
+    {
+        "ticker": "SNDK UW Equity",
+        "name": "SanDisk Corp"
+    },
+    {
+        "ticker": "SCG UN Equity",
+        "name": "SCANA Corp"
+    },
+    {
+        "ticker": "SLB UN Equity",
+        "name": "Schlumberger Ltd"
+    },
+    {
+        "ticker": "SNI UN Equity",
+        "name": "Scripps Networks Interactive Inc"
+    },
+    {
+        "ticker": "STX UW Equity",
+        "name": "Seagate Technology PLC"
+    },
+    {
+        "ticker": "SEE UN Equity",
+        "name": "Sealed Air Corp"
+    },
+    {
+        "ticker": "SRE UN Equity",
+        "name": "Sempra Energy"
+    },
+    {
+        "ticker": "SHW UN Equity",
+        "name": "Sherwin-Williams Co/The"
+    },
+    {
+        "ticker": "SIAL UW Equity",
+        "name": "Sigma-Aldrich Corp"
+    },
+    {
+        "ticker": "SPG UN Equity",
+        "name": "Simon Property Group Inc"
+    },
+    {
+        "ticker": "SNA UN Equity",
+        "name": "Snap-on Inc"
+    },
+    {
+        "ticker": "SO UN Equity",
+        "name": "Southern Co/The"
+    },
+    {
+        "ticker": "LUV UN Equity",
+        "name": "Southwest Airlines Co"
+    },
+    {
+        "ticker": "SWN UN Equity",
+        "name": "Southwestern Energy Co"
+    },
+    {
+        "ticker": "SE UN Equity",
+        "name": "Spectra Energy Corp"
+    },
+    {
+        "ticker": "STJ UN Equity",
+        "name": "St Jude Medical Inc"
+    },
+    {
+        "ticker": "SWK UN Equity",
+        "name": "Stanley Black & Decker Inc"
+    },
+    {
+        "ticker": "SPLS UW Equity",
+        "name": "Staples Inc"
+    },
+    {
+        "ticker": "SBUX UW Equity",
+        "name": "Starbucks Corp"
+    },
+    {
+        "ticker": "HOT UN Equity",
+        "name": "Starwood Hotels & Resorts Worldwide Inc"
+    },
+    {
+        "ticker": "STT UN Equity",
+        "name": "State Street Corp"
+    },
+    {
+        "ticker": "SRCL UW Equity",
+        "name": "Stericycle Inc"
+    },
+    {
+        "ticker": "SYK UN Equity",
+        "name": "Stryker Corp"
+    },
+    {
+        "ticker": "STI UN Equity",
+        "name": "SunTrust Banks Inc"
+    },
+    {
+        "ticker": "SYMC UW Equity",
+        "name": "Symantec Corp"
+    },
+    {
+        "ticker": "SYY UN Equity",
+        "name": "Sysco Corp"
+    },
+    {
+        "ticker": "TROW UW Equity",
+        "name": "T Rowe Price Group Inc"
+    },
+    {
+        "ticker": "TGT UN Equity",
+        "name": "Target Corp"
+    },
+    {
+        "ticker": "TEL UN Equity",
+        "name": "TE Connectivity Ltd"
+    },
+    {
+        "ticker": "TE UN Equity",
+        "name": "TECO Energy Inc"
+    },
+    {
+        "ticker": "THC UN Equity",
+        "name": "Tenet Healthcare Corp"
+    },
+    {
+        "ticker": "TDC UN Equity",
+        "name": "Teradata Corp"
+    },
+    {
+        "ticker": "TSO UN Equity",
+        "name": "Tesoro Corp"
+    },
+    {
+        "ticker": "TXN UW Equity",
+        "name": "Texas Instruments Inc"
+    },
+    {
+        "ticker": "TXT UN Equity",
+        "name": "Textron Inc"
+    },
+    {
+        "ticker": "TMO UN Equity",
+        "name": "Thermo Fisher Scientific Inc"
+    },
+    {
+        "ticker": "TIF UN Equity",
+        "name": "Tiffany & Co"
+    },
+    {
+        "ticker": "TWC UN Equity",
+        "name": "Time Warner Cable Inc"
+    },
+    {
+        "ticker": "TWX UN Equity",
+        "name": "Time Warner Inc"
+    },
+    {
+        "ticker": "TJX UN Equity",
+        "name": "TJX Cos Inc/The"
+    },
+    {
+        "ticker": "TMK UN Equity",
+        "name": "Torchmark Corp"
+    },
+    {
+        "ticker": "TSS UN Equity",
+        "name": "Total System Services Inc"
+    },
+    {
+        "ticker": "TSCO UW Equity",
+        "name": "Tractor Supply Co"
+    },
+    {
+        "ticker": "RIG UN Equity",
+        "name": "Transocean Ltd"
+    },
+    {
+        "ticker": "TRV UN Equity",
+        "name": "Travelers Cos Inc/The"
+    },
+    {
+        "ticker": "TRIP UW Equity",
+        "name": "TripAdvisor Inc"
+    },
+    {
+        "ticker": "FOXA UW Equity",
+        "name": "Twenty-First Century Fox Inc"
+    },
+    {
+        "ticker": "TYC UN Equity",
+        "name": "Tyco International Ltd"
+    },
+    {
+        "ticker": "TSN UN Equity",
+        "name": "Tyson Foods Inc"
+    },
+    {
+        "ticker": "UA UN Equity",
+        "name": "Under Armour Inc"
+    },
+    {
+        "ticker": "UNP UN Equity",
+        "name": "Union Pacific Corp"
+    },
+    {
+        "ticker": "UPS UN Equity",
+        "name": "United Parcel Service Inc"
+    },
+    {
+        "ticker": "URI UN Equity",
+        "name": "United Rentals Inc"
+    },
+    {
+        "ticker": "UTX UN Equity",
+        "name": "United Technologies Corp"
+    },
+    {
+        "ticker": "UNH UN Equity",
+        "name": "UnitedHealth Group Inc"
+    },
+    {
+        "ticker": "UHS UN Equity",
+        "name": "Universal Health Services Inc"
+    },
+    {
+        "ticker": "UNM UN Equity",
+        "name": "Unum Group"
+    },
+    {
+        "ticker": "URBN UW Equity",
+        "name": "Urban Outfitters Inc"
+    },
+    {
+        "ticker": "USB UN Equity",
+        "name": "US Bancorp/MN"
+    },
+    {
+        "ticker": "VLO UN Equity",
+        "name": "Valero Energy Corp"
+    },
+    {
+        "ticker": "VAR UN Equity",
+        "name": "Varian Medical Systems Inc"
+    },
+    {
+        "ticker": "VTR UN Equity",
+        "name": "Ventas Inc"
+    },
+    {
+        "ticker": "VRSN UW Equity",
+        "name": "VeriSign Inc"
+    },
+    {
+        "ticker": "VZ UN Equity",
+        "name": "Verizon Communications Inc"
+    },
+    {
+        "ticker": "VRTX UW Equity",
+        "name": "Vertex Pharmaceuticals Inc"
+    },
+    {
+        "ticker": "VFC UN Equity",
+        "name": "VF Corp"
+    },
+    {
+        "ticker": "VIAB UW Equity",
+        "name": "Viacom Inc"
+    },
+    {
+        "ticker": "V UN Equity",
+        "name": "Visa Inc"
+    },
+    {
+        "ticker": "VNO UN Equity",
+        "name": "Vornado Realty Trust"
+    },
+    {
+        "ticker": "VMC UN Equity",
+        "name": "Vulcan Materials Co"
+    },
+    {
+        "ticker": "WMT UN Equity",
+        "name": "Wal-Mart Stores Inc"
+    },
+    {
+        "ticker": "WAG UN Equity",
+        "name": "Walgreen Co"
+    },
+    {
+        "ticker": "DIS UN Equity",
+        "name": "Walt Disney Co/The"
+    },
+    {
+        "ticker": "WM UN Equity",
+        "name": "Waste Management Inc"
+    },
+    {
+        "ticker": "WAT UN Equity",
+        "name": "Waters Corp"
+    },
+    {
+        "ticker": "WLP UN Equity",
+        "name": "WellPoint Inc"
+    },
+    {
+        "ticker": "WFC UN Equity",
+        "name": "Wells Fargo & Co"
+    },
+    {
+        "ticker": "WDC UW Equity",
+        "name": "Western Digital Corp"
+    },
+    {
+        "ticker": "WU UN Equity",
+        "name": "Western Union Co/The"
+    },
+    {
+        "ticker": "WY UN Equity",
+        "name": "Weyerhaeuser Co"
+    },
+    {
+        "ticker": "WHR UN Equity",
+        "name": "Whirlpool Corp"
+    },
+    {
+        "ticker": "WFM UW Equity",
+        "name": "Whole Foods Market Inc"
+    },
+    {
+        "ticker": "WMB UN Equity",
+        "name": "Williams Cos Inc/The"
+    },
+    {
+        "ticker": "WIN UW Equity",
+        "name": "Windstream Holdings Inc"
+    },
+    {
+        "ticker": "WEC UN Equity",
+        "name": "Wisconsin Energy Corp"
+    },
+    {
+        "ticker": "GWW UN Equity",
+        "name": "WW Grainger Inc"
+    },
+    {
+        "ticker": "WYN UN Equity",
+        "name": "Wyndham Worldwide Corp"
+    },
+    {
+        "ticker": "WYNN UW Equity",
+        "name": "Wynn Resorts Ltd"
+    },
+    {
+        "ticker": "XEL UN Equity",
+        "name": "Xcel Energy Inc"
+    },
+    {
+        "ticker": "XRX UN Equity",
+        "name": "Xerox Corp"
+    },
+    {
+        "ticker": "XLNX UW Equity",
+        "name": "Xilinx Inc"
+    },
+    {
+        "ticker": "XL UN Equity",
+        "name": "XL Group PLC"
+    },
+    {
+        "ticker": "XYL UN Equity",
+        "name": "Xylem Inc/NY"
+    },
+    {
+        "ticker": "YHOO UW Equity",
+        "name": "Yahoo! Inc"
+    },
+    {
+        "ticker": "YUM UN Equity",
+        "name": "Yum! Brands Inc"
+    },
+    {
+        "ticker": "ZMH UN Equity",
+        "name": "Zimmer Holdings Inc"
+    },
+    {
+        "ticker": "ZION UW Equity",
+        "name": "Zions Bancorporation"
+    },
+    {
+        "ticker": "ZTS UN Equity",
+        "name": "Zoetis Inc"
+    }
+]

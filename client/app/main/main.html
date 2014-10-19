@@ -6,18 +6,28 @@
 
         <p class="lead">A beautiful and engaging platform for your financial data.</p>
         <!--<img src="assets/images/yeoman.png" alt="I'm Yeoman">-->
-        <button type="submit" class="btn btn-primary" ng-click="startSession()">Start a new session</button>
-        <button type="submit" class="btn btn-primary" ng-click="grabData()">Grab data</button>
-        <div class="animation-5" ng-show="startingSession">
+        <!--<button type="submit" class="btn btn-primary" ng-click="startSession()">Start a new session</button>-->
+        <!--<button type="submit" class="btn btn-primary" ng-click="grabData()">Grab data</button>-->
+        <!--<br />-->
+        <div class="input-group">
+            <input type="text" ng-model="selected500" typeahead="sec.ticker for sec in fortune500s | filter:$viewValue | limitTo:8" class="form-control">
+            <span class="input-group-btn">
+                <button type="submit" class="btn btn-primary" ng-click="grabStock()">Load Stock</button>
+            </span>
+        </div>
+
+        <div class="animation-5" ng-show="loading">
             <div class="bar bar1"></div>
             <div class="bar bar2"></div>
             <div class="bar bar3"></div>
             <div class="bar bar4"></div>
             <div class="bar bar5"></div>
         </div>
-        <div id="dashboard-graphs"></div>
+
     </div>
 </header>
+
+<div id="dashboard-root"></div>
 
 <div class="container">
     <div class="row">

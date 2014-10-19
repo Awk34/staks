@@ -5,6 +5,13 @@ angular.module('staksApp')
         $scope.awesomeThings = [];
         $scope.loading = false;
         $scope.data = [];
+        $scope.fortune500s = [];
+        $scope.selected500 = undefined;
+
+        loadJSON(function(response) {
+            // Parse JSON string into object
+            $scope.fortune500s = JSON.parse(response);
+        });
 
         $http.get('/api/things').success(function (awesomeThings) {
             $scope.awesomeThings = awesomeThings;
@@ -46,7 +53,7 @@ angular.module('staksApp')
                 .success(function (res) {
                     console.log(res);
                     $scope.data = res[0].securityData.fieldData;
-                    renderGraph();
+                    renderGraph($scope.data);
                     $scope.loading = false;
                 })
                 .error(function (data, status, headers, config) {
@@ -55,40 +62,36 @@ angular.module('staksApp')
                 });
         };
 
-        function renderGraph() {
-            // Generate a Bates distribution of 10 random variables.
-//            var values = d3.range(1000).map(d3.random.bates(10));
-            var values = $scope.data;
+        $scope.grabStock = function () {
+            if($scope.selected500 == undefined) return;
+            var stock = $scope.selected500.replace(/ /g, '_');
+            $scope.loading = true;
+            $http.get('/api/blpapi/stocks/'+stock)
+                .success(function (res) {
+                    console.log(res);
+                    $scope.data = res.fieldData;
+                    renderGraph($scope.data);
+                    $scope.loading = false;
+                    $scope.selected500 = undefined;
+                })
+                .error(function (data, status, headers, config) {
+                    console.log(data);
+                    $scope.loading = false;
+                    $scope.selected500 = undefined;
+                });
+        };
+
+        var pckry = new Packery( '#dashboard-root', {
+            // options
+            itemSelector: '.item',
+            gutter: 10
+        });
+
+        function renderGraph(data) {
+            var values = data;
             for (var i = 0; i < values.length; i++) {
                 values[i] = values[i].OPEN;
             }
-
-            // A formatter for counts.
-            /*var formatCount = d3.format(",.0f");
-
-            var margin = {top: 10, right: 30, bottom: 30, left: 30},
-                width = 960 - margin.left - margin.right,
-                height = 500 - margin.top - margin.bottom;
-
-            var x = d3.scale.linear()
-                .domain([0, 40])
-                .range([0, width]);
-
-            var y = d3.scale.linear()
-                .domain([0, d3.max(data, function (d) {
-                    return d.y;
-                })])
-                .range([height, 0]);
-
-            var xAxis = d3.svg.axis()
-                .scale(x)
-                .orient("bottom");
-
-            var svg = d3.select("#dashboard-graphs").append("svg")
-                .attr("width", width + margin.left + margin.right)
-                .attr("height", height + margin.top + margin.bottom)
-                .append("g")
-                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");*/
 
             function myData() {
                 var series1 = [];
@@ -112,18 +115,19 @@ angular.module('staksApp')
                 var chart = nv.models.lineChart();
 
                 chart.xAxis
-                    .axisLabel("X-axis Label");
+                    .axisLabel("Time");
 
                 chart.yAxis
-                    .axisLabel("Y-axis Label")
+                    .axisLabel("Price (USD)")
                     .tickFormat(d3.format("d"));
 
-                var svg = d3.select("#dashboard-graphs")
+                var div = d3.select("#dashboard-root")
+                    .append("div")
+                    .attr("class", "item");
+                var svg = div
                     .append("svg");
-                svg
-                    .attr("height", "500px");
-                svg
-                    .datum(myData())
+                svg.attr("height", "400px");
+                svg.datum(myData())
                     .transition().duration(500).call(chart);
 
                 nv.utils.windowResize(
@@ -132,7 +136,23 @@ angular.module('staksApp')
                     }
                 );
 
+                pckry.addItems(div);
+
                 return chart;
             });
         }
     });
+
+function loadJSON(callback) {
+
+    var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType("application/json");
+    xobj.open('GET', 'assets/json/fortune500s.json', true);
+    xobj.onreadystatechange = function () {
+        if (xobj.readyState == 4 && xobj.status == "200") {
+            // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+            callback(xobj.responseText);
+        }
+    };
+    xobj.send(null);
+}
