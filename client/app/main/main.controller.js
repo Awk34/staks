@@ -133,7 +133,7 @@ angular.module('staksApp')
                         data1.push([+(new Date(point.date)), eval('point.'+fields)])
                     });
 //                    console.log(data1);
-                    $scope.addLineGraphf([{ key: fields, values: data1}], $scope.selected500+": "+fields);
+                    $scope.addLineGraph([{ key: fields, values: data1}], $scope.selected500+": "+fields);
                     $scope.loading = false;
                     $scope.selected500 = undefined;
                 })
