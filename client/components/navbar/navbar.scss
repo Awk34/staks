@@ -1,4 +1,17 @@
-.navbar-brand {
-    font-weight: 700;
-    font-size: 2.5rem;
+.navbar-static-top {
+    background-color: #4393B9;
+    border: none;
+    color: white;
+    .container {
+        .navbar-collapse .nav li a, .navbar-collapse .nav li p, .navbar-brand {
+            color: white;
+        }
+        .navbar-collapse .nav li.active a {
+            color: gray;
+        }
+        .navbar-brand {
+            font-weight: 700;
+            font-size: 2.5rem;
+        }
+    }
 }
