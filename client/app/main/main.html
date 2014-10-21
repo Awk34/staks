@@ -5,10 +5,6 @@
         <h1>Welcome to Staks!</h1>
 
         <p class="lead">A beautiful and engaging platform for your financial data.</p>
-        <!--<img src="assets/images/yeoman.png" alt="I'm Yeoman">-->
-        <!--<button type="submit" class="btn btn-primary" ng-click="startSession()">Start a new session</button>-->
-        <!--<button type="submit" class="btn btn-primary" ng-click="grabData()">Grab data</button>-->
-        <!--<br />-->
         <div class="input-group">
             <form ng-submit="grabStock()"><input type="text" ng-model="selected500"
                                                  typeahead="sec.ticker for sec in fortune500s | filter:$viewValue | limitTo:8"

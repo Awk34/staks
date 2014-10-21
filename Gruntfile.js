@@ -240,6 +240,7 @@ module.exports = function (grunt) {
                         '<%= yeoman.dist %>/public/{,*/}*.js',
                         '<%= yeoman.dist %>/public/{,*/}*.css',
                         '<%= yeoman.dist %>/public/assets/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}',
+                        '<%= yeoman.dist %>/public/assets/json/{,*/}*.{json}',
                         '<%= yeoman.dist %>/public/assets/fonts/*'
                     ]
                 }
@@ -264,7 +265,8 @@ module.exports = function (grunt) {
             options: {
                 assetsDirs: [
                     '<%= yeoman.dist %>/public',
-                    '<%= yeoman.dist %>/public/assets/images'
+                    '<%= yeoman.dist %>/public/assets/images',
+                    '<%= yeoman.dist %>/public/assets/json'
                 ],
                 // This is so we update image references in our ng-templates
                 patterns: {
@@ -366,6 +368,7 @@ module.exports = function (grunt) {
                             '.htaccess',
                             'bower_components/**/*',
                             'assets/images/{,*/}*.{webp}',
+                            'assets/json/**/*',
                             'assets/fonts/**/*',
                             'index.html'
                         ]
@@ -419,10 +422,10 @@ module.exports = function (grunt) {
         // Run some tasks in parallel to speed up the build process
         concurrent: {
             server: [
-                'sass',
+                'sass'
             ],
             test: [
-                'sass',
+                'sass'
             ],
             debug: {
                 tasks: [
@@ -556,7 +559,7 @@ module.exports = function (grunt) {
                     ]
                 }
             }
-        },
+        }
     });
 
     // Used for delaying livereload until after server has restarted
